@@ -98,3 +98,5 @@ Passos...
 2. Pensar nos testes com uma divisão de pipiline
 3. Criar uma versão inicial da arquitetura
 4. Criar os testes e difinir as suítes de testes
+
+# Cobertura de teste
